@@ -1,0 +1,8 @@
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe.config
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\bin\Debug\Volleyball_Problem.pdb
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\obj\Debug\Volleyball_Problem.Form1.resources
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\obj\Debug\Volleyball_Problem.Properties.Resources.resources
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\obj\Debug\Volleyball_Problem.csproj.GenerateResource.Cache
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\obj\Debug\Volleyball_Problem.exe
+C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Volleyball_Problem\Volleyball_Problem\obj\Debug\Volleyball_Problem.pdb

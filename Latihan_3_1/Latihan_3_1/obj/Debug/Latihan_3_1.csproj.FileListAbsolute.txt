@@ -6,3 +6,6 @@ C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Latihan_3_1\La
 C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Latihan_3_1\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
 C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Latihan_3_1\Latihan_3_1\obj\Debug\Latihan_3_1.exe
 C:\Users\Dean Antonio\Music\-Selasa_141110183_Dean-Antonio-master\Latihan_3_1\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+C:\Users\Dean Antonio\Music\New folder\New folder\-Selasa_141110183_Dean-Antonio\Latihan_3_1\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+C:\Users\Dean Antonio\Music\New folder\New folder\-Selasa_141110183_Dean-Antonio\Latihan_3_1\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+C:\Users\Dean Antonio\Music\New folder\New folder\-Selasa_141110183_Dean-Antonio\Latihan_3_1\Latihan_3_1\obj\Debug\Latihan_3_1.pdb

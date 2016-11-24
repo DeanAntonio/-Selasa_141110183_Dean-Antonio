@@ -8,3 +8,6 @@ C:\Users\Dean Antonio\Music\Latihan_5_1\Latihan_5_1\obj\Debug\Latihan_5_1.csproj
 C:\Users\Dean Antonio\Music\Latihan_5_1\Latihan_5_1\obj\Debug\Latihan_5_1.exe
 C:\Users\Dean Antonio\Music\Latihan_5_1\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
 C:\Users\Dean Antonio\Music\Latihan_5_1\Latihan_5_1\obj\Debug\Latihan_5_1.Form2.resources
+C:\Users\Dean Antonio\Music\New folder\New folder\-Selasa_141110183_Dean-Antonio\Latihan_5_1\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+C:\Users\Dean Antonio\Music\New folder\New folder\-Selasa_141110183_Dean-Antonio\Latihan_5_1\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+C:\Users\Dean Antonio\Music\New folder\New folder\-Selasa_141110183_Dean-Antonio\Latihan_5_1\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
